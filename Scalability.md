@@ -22,7 +22,7 @@ Example: Netflix uses horizontal scaling for its streaming service, adding more 
 
 ## 3. Load Balancing
 Load balancing is the process of distributing traffic across multiple servers to ensure no single server becomes overwhelmed.
-https://github.com/mkris8/system-design/blob/main/load-balancing.md
+- [Load Balancing in detail](https://github.com/mkris8/system-design/blob/main/load-balancing.md)
 
 ## 4. Caching
 Store frequently accessed data in-memory (like RAM) to reduce the load on the server or database. Implement caching can dramatically improve response times.
