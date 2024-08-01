@@ -2,7 +2,7 @@ This repository contains resources to learn System Design concepts.
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://github.com/mkris8/system-design/blob/main/Scalability.md)
-- [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
+- [Availability](https://github.com/mkris8/system-design/blob/main/Availability.md)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
